@@ -1,20 +1,20 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://example.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "Trivialand.mv",
+  "url": "https://trivialand.mv/",
+  "description": "Beat your friends at trivia in Dhivehi.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "trivialand",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://example.com/"
+    "id": "https://trivialand.mv/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://example.com/feed/feed.json"
+    "url": "https://trivialand.mv/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
-    "url": "https://example.com/about-me/"
+    "name": "admin",
+    "email": "shaukytravelogue.com",
+    "url": ""
   }
 }

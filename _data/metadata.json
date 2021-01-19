@@ -1,20 +1,20 @@
 {
-  "title": "Trivialand.mv",
-  "url": "https://trivialand.mv/",
+  "title": "Trivialandmv",
+  "url": "https://tutornet.xyz/trivialand",
   "description": "Beat your friends at trivia in Dhivehi.",
   "feed": {
     "subtitle": "trivialand",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://trivialand.mv/"
+    "id": "https://tutornet.xyz/trivialand"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://trivialand.mv/feed/feed.json"
+    "url": "https://tutornet.xyz/feed/feed.json"
   },
   "author": {
     "name": "admin",
-    "email": "shaukytravelogue.com",
+    "email": "shaukytravelogue@gmail.com",
     "url": ""
   }
 }

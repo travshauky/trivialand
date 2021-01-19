@@ -1,7 +1,7 @@
 ---
 title: މިއީ ފުރަތަމަ މަޒުމޫ ނެވެ 
 description: ތައާރަފު .
-date: 19 January 2021
+date: 2021-11-19
 tags: އެކު މާ ފާނު 
 layout: layouts/post.njk
 ---
